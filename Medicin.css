@@ -1,0 +1,14 @@
+
+div.example2{
+    width: 100%;
+    height: 400px;
+    background-image: url('Medicin.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 0px solid red;
+	clear: left;
+	background-position: right;
+}
+.img3 {
+    float: right;
+}

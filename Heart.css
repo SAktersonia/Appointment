@@ -1,0 +1,14 @@
+
+div.example3{
+    width: 100%;
+    height: 400px;
+    background-image: url('Heart.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 0px solid red;
+	clear: left;
+	background-position: right;
+}
+.img4 {
+    float: right;
+}
